@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MusicReader",
+  "name": "MusicReader",
+  "description": "Music Reader",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheMarkuz"],
+  "credits": "TheTrade12 for the idea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
